@@ -1,0 +1,46 @@
+body{
+    background: url(./final\ background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#Heading{
+    color: black;
+    
+    width: 700px;
+    text-align: center;
+    margin: auto;
+
+    
+
+}
+
+#content{
+    display: flex;
+    background: rgba(14, 17, 23, 0.334);
+    height: 550px;
+    width: 1100px;
+    margin: auto;
+    margin-top: 50px ;
+   
+    justify-content: space-between;
+}
+img{
+    height: 150px;
+    width:  140px;
+    border: 1px solid rgba(165, 153, 153);
+    border-color: aquamarine;
+    border-top-right-radius: 50%  ;
+    border-bottom-left-radius: 20%;
+  
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+#title{
+    color:azure;
+    display: flex;
+    width: 1350px;
+    background: rgba(86, 76, 76, 0.83);
+    margin: auto;
+    justify-content: space-around;
+}
